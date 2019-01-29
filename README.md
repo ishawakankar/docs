@@ -1,3 +1,3 @@
-# docs
+# Documentation
 
 API
